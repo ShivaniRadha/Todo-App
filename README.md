@@ -1,4 +1,4 @@
-                                                           # To-Do List App 📝
+                                                 To-Do List App 📝
 A simple and responsive **To-Do List** web application built with **HTML, CSS, and JavaScript**. Users can easily add, delete, and manage their daily tasks.
 ## Live Demo 🌐
 [View Live App](https://shivaniradha.github.io/Todo-App/)
